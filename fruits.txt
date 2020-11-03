@@ -1,5 +1,6 @@
-welcome to fruits madrket!
+welcome to fruits market!
 Mango
 apple
 banana
 grapes
+pineapple
