@@ -1,6 +1,11 @@
-welcome to fruits market!
+welcome to market!
 Mango
 apple
 banana
 grapes
 pineapple
+
+vegetables:
+carrot
+beans
+tomato
